@@ -2,7 +2,7 @@
 
 ```php
 
-<button type="reset" class="btn btn-danger btn-sm" onclick="resetForm(event, $(this));">@lang('Clear')</button>
+<button type="reset" class="btn btn-danger" onclick="resetForm(event, $(this));">Reset</button>
 
 <script>
     function resetForm(e, thisobj) {
