@@ -1,4 +1,4 @@
-## Reset Select Value in JavaScript
+## Reset Select Value with JavaScript
 
 ```php
 <form method="get" onsubmit="return testFormSubmit($(this));">
